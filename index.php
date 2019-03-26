@@ -15,4 +15,6 @@
 
    $mathOperationsObj = new MathOperations();
    print($mathOperationsObj->doOperation());
+break;
+
 ?>
